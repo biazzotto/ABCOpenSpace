@@ -1,2 +1,2 @@
-# HackerSpaceABC
-Hacker Space ABC - Grupo destinado a cultura de troca de conhecimentos.
+# ABC Hacker Clube
+ABC Hacker Clube - Grupo destinado a cultura de troca de conhecimentos.
