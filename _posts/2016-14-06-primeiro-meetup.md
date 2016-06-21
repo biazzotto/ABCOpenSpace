@@ -34,5 +34,6 @@ Atualmente contamos com os seguintes endereços:
 * [**Wiki**](http://abchackerclube.azurewebsites.net/).
 * [**Github IO**](http://abchackerclube.github.io/ABCHackerClube/).
 * [**Github**](https://github.com/ABCHackerClube/).
+* [**Slack**](https://hackerspaceabc.slack.com).
 
 > **_Faça parte_** desse clube você também [**ABC Hacker Clube**](http://www.meetup.com/pt-BR/abchackerclube).
