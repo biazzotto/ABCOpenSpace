@@ -1,19 +1,19 @@
 # Site Info
-title:              "The Plain"
-description:        "The Plain is a Minimalist Jekyll theme that focuses on writing matters."
+title:              "ABC Hacker Clube"
+description:        "O ABC Hacker Clube, é um clube colaborativo e open para toda a comunidade."
 google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
 google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
 
 # Author Info
-author_name:        "Heiswayi Nrird"
-author_email:       hnrird@gmail.com
-author_gravatar:    2b38b1b0e7e08b69379bd61582adf0c8 # Gravatar md5 hash
-twitter_username:   HeiswayiNrird
+author_name:        "Cássio B. Pereira"
+author_email:       cassio@cassiobp.com.br
+author_gravatar:    91fe0b62821bb26bb83cb77e18986080 # Gravatar md5 hash
+twitter_username:   cassiov1ru5
 
 # Site Settings
 baseurl:            "http://abchackerclube.github.io/ABCHackerClube" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /notes/:title # Post permalink
-timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:           America/Sao_Paulo # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Site Build
 highlighter:        rouge
