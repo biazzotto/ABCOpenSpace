@@ -1,6 +1,6 @@
 ---
 title: Primeiro Meetup - Inauguração do grupo e ideias de colaboração
-updated: 2016-14-06 22:00
+updated: 2016-06-14 22:00
 ---
 
 Esse foi nosso primeiro [**Meetup**](http://www.meetup.com/pt-BR/abchackerclube/events/231514416/).
