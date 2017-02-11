@@ -3,7 +3,7 @@ title: Handshakes - como capturar e como decriptografar
 updated: 2017-02-11 15:00
 ---
 
-Esse foi nosso primeiro [**Meetup**](https://www.meetup.com/pt-BR/abchackerclube/events/236796128/).
+Esse foi nosso [**Meetup**](https://www.meetup.com/pt-BR/abchackerclube/events/236796128/).
 
 Abaixo um brainstorm do que foi discutido no dia:
 
