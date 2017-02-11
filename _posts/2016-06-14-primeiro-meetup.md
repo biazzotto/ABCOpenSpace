@@ -31,7 +31,6 @@ Algumas divifuldades que enfrentaremos no início:
 Atualmente contamos com os seguintes endereços:
 
 * [**Meetup**](http://www.meetup.com/pt-BR/abchackerclube/).
-* [**Wiki**](http://abchackerclube.azurewebsites.net/).
 * [**Github IO**](http://abchackerclube.github.io/ABCHackerClube/).
 * [**Github**](https://github.com/ABCHackerClube/).
 * [**Slack**](https://hackerspaceabc.slack.com).
