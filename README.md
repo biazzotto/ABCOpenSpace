@@ -1,4 +1,4 @@
-# ABC Hacker Clube
+# ABC Open Space
 ABC Hacker Clube - Grupo destinado a cultura de troca de conhecimentos.
 
-http://abchackerclube.github.io/ABCHackerClube
+http://abcopenspace.github.io/ABCOpenSpace
